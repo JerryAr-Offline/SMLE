@@ -14,7 +14,7 @@ The gun firing 7.62x54R Russian cartridge,which is unforgivable
 &nbsp;
 
 ### Preview
-![Alt Text](https://raw.githubusercontent.com/JerryAr-offline/SMLE/main/IMGs/view.png)
+![Alt Text](https://github.com/JerryAr-Offline/SMLE/blob/main/IMGs/view.png)
 
 &nbsp;
 
