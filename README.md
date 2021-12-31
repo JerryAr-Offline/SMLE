@@ -11,6 +11,9 @@ It also got a muzzle mount to fix bayonet and adjustable rear sight.
 The gun firing 7.62x54R Russian cartridge,which is unforgivable
 
 (BUT I can't bear with fake .303 model anymore)
+
+(Huge thanks to Arpy who helps made the wooden texture for me.)
+
 &nbsp;
 
 ### Preview
