@@ -1,0 +1,9 @@
+{
+	"name": "SMLE",
+	"version_number": "1.0.0",
+	"description": "I LOVE SMLE",
+	"website_url": "",
+	"dependencies": [
+		"devyndamonster-OtherLoader-1.0.0"
+	]
+}
