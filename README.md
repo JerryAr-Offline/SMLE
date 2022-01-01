@@ -17,7 +17,7 @@ The gun firing 7.62x54R Russian cartridge with huge vertical recoil,which is unf
 &nbsp;
 
 ### Preview
-![Alt Text](https://github.com/JerryAr-Offline/SMLE/blob/main/IMGs/view.png)
+![Alt Text](https://raw.githubusercontent.com/JerryAr-Offline/SMLE/main/IMGs/view.png)
 
 &nbsp;
 
